@@ -6,5 +6,7 @@ public class test {
 
 		System.out.println("Hej med dig!");
 		//Måske
+		
+		int a,b,c,d;
 	}
 }
